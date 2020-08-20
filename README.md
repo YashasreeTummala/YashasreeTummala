@@ -10,7 +10,9 @@
 
 💬 Ask me about Java, Springboot, Angular, CSS, Typescript, Agile methodologies would be interested to help you or discuss. 
 
-💬 Having good working knowledge on Angular  Framework concepts like Dependency Injection, Routing, Directives, Component Interaction, Reactive-forms,Services and Two-Way Data binding.
+💻 Having good working knowledge on Angular Framework concepts like Dependency Injection, Routing, Directives, Component Interaction, Reactive-forms, Services, Authguard and Two-Way Data binding.
+
+🎤 Inspiring & helping young minds to learn the technology.
 
 ⚡ Fun fact: I love music,travelling & cooking. Huge fan of Dark, GOT, Originals, JustAddMagic (Netflix series).
 
