@@ -16,7 +16,7 @@
 
 🎯 Focusing to become a Microservice Developer. 
 
-⚡ Fun fact: I love music, travelling & cooking. Huge fan of Dark, GOT, Originals, JustAddMagic (Netflix series).
+⚡ Fun fact: I love music, travelling & cooking. Huge fan of Dark, GOT, Money Heist, Originals, JustAddMagic (Netflix series).
 
 📫 How to reach me : yashasreeaditya@gmail.com
 
