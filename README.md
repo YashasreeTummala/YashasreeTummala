@@ -4,7 +4,7 @@
 
 🔭 I love learning new things, excited to build applications.
 
-🌱 I’m currently learning Deploying tools - Docker, Kubernetes.
+🌱 I’m currently learning Security (JWT) &  Deploying tools - Docker, Kubernetes.
 
 🌱 I’m currently learning Spring to improve My backend skills, Typescript to bring typed system in our current projects.
 
