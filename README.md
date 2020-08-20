@@ -12,7 +12,9 @@
 
 💻 Having good working knowledge on Angular Framework concepts like Dependency Injection, Routing, Directives, Component Interaction, Reactive-forms, Services, Authguard and Two-Way Data binding.
 
-🎤 Inspiring & helping young minds to learn the technology.
+🎤 Inspiring and helping young minds to explore their passion for the art of programming & technology.
+
+🎯 Focusing to become a Microservice Developer. 
 
 ⚡ Fun fact: I love music, travelling & cooking. Huge fan of Dark, GOT, Originals, JustAddMagic (Netflix series).
 
