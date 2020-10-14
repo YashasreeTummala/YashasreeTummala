@@ -14,7 +14,7 @@
 
 🎤 Inspiring and helping young minds to explore their passion for the art of programming & technology.
 
-🎯 Focusing to become a Microservice Developer. 
+🎯 Focusing to become a good Developer. 
 
 ⚡ Fun fact: I love music, travelling, driving & cooking. Huge fan of Dark, GOT, Money Heist, Originals, JustAddMagic (Netflix series).
 
