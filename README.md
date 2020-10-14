@@ -1,6 +1,6 @@
 # YashasreeTummala
 
-👋 Hello, myself Yashasree Tummala, I am a passionate Full Stack Developer. 
+👋 Hello, myself Yashasree Tummala, I am a passionate Developer cum Trainer, Ex-Raudra, Ex-TEPL, Ex-Vignan.   
 
 🔭 I love learning new things, excited to build applications.
 
